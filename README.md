@@ -5,5 +5,5 @@
     Linux
 
 ## How to run?
-    Run 'make'
-    Run './jshell'
+    make
+    ./jshell
