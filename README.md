@@ -1,4 +1,4 @@
-# Custom shell
+# Shell
 
 
 ## Operating System
